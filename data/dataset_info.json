@@ -67,6 +67,7 @@
   },
   "json-mode-eval": {
     "hf_hub_url": "NousResearch/json-mode-eval",
+    "formatting": "sharegpt",
     "columns": {
       "prompt": "input",
       "completion": "output",
