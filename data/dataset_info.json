@@ -65,6 +65,10 @@
     "hf_hub_url": "llamafactory/alpaca_gpt4_en",
     "ms_hub_url": "llamafactory/alpaca_gpt4_en"
   },
+  "json-mode-eval": {
+    "hf_hub_url": "NousResearch/json-mode-eval",
+    "ms_hub_url": "NousResearch/json-mode-eval"
+  },
   "alpaca_gpt4_zh": {
     "hf_hub_url": "llamafactory/alpaca_gpt4_zh",
     "ms_hub_url": "llamafactory/alpaca_gpt4_zh",
