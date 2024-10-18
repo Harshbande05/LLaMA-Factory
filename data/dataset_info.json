@@ -65,14 +65,8 @@
     "hf_hub_url": "llamafactory/alpaca_gpt4_en",
     "ms_hub_url": "llamafactory/alpaca_gpt4_en"
   },
-  "json-mode-eval": {
-    "hf_hub_url": "NousResearch/json-mode-eval",
-    "formatting": "sharegpt",
-    "columns": {
-      "prompt": "input",
-      "completion": "output",
-      "schema": "instruction",
-    }
+  "databricks-dolly-15k": {
+    "hf_hub_url": "databricks/databricks-dolly-15k",
   },
   "alpaca_gpt4_zh": {
     "hf_hub_url": "llamafactory/alpaca_gpt4_zh",
