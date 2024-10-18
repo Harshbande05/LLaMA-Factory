@@ -67,7 +67,12 @@
   },
   "databricks-dolly-15k": {
     "hf_hub_url": "databricks/databricks-dolly-15k",
-    "file_name": "databricks-dolly-15k.jsonl"
+    "file_name": "databricks-dolly-15k.jsonl",
+    "columns": {
+      "instruction": "instruction",
+      "input": "context",
+      "output": "response",
+    }
   },
   "alpaca_gpt4_zh": {
     "hf_hub_url": "llamafactory/alpaca_gpt4_zh",
