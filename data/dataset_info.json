@@ -2,6 +2,14 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "poc_ac": {
+    "hf_hub_url": "llamafactory/alpaca_en",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
