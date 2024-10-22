@@ -3,7 +3,7 @@
     "file_name": "identity.json"
   },
   "poc_ac": {
-    "hf_hub_url": "llamafactory/alpaca_en",
+    "hf_hub_url": "Haaaaarsh/poc_ac_v02",
     "columns": {
       "prompt": "instruction",
       "query": "input",
