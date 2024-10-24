@@ -10,6 +10,14 @@
       "response": "output"
     }
   },
+  "ac_commands": {
+    "hf_hub_url": "Haaaaarsh/ac_commands",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
