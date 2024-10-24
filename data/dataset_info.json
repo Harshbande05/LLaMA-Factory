@@ -2,7 +2,7 @@
   "identity": {
     "file_name": "identity.json"
   },
-  "ac_commands_v02": {
+  "ac_commands_v03": {
     "hf_hub_url": "Haaaaarsh/ac_commands_v02",
     "columns": {
       "prompt": "instruction",
