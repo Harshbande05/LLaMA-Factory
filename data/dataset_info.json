@@ -2,8 +2,8 @@
   "identity": {
     "file_name": "identity.json"
   },
-  "poc_ac": {
-    "hf_hub_url": "Haaaaarsh/poc_ac_v02",
+  "ac_commands_v02": {
+    "hf_hub_url": "Haaaaarsh/ac_commands_v02",
     "columns": {
       "prompt": "instruction",
       "query": "input",
