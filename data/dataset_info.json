@@ -2,6 +2,14 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "databrick": {
+    "hf_hub_url": "Haaaaarsh/databrick",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "ac_commands_v03": {
     "hf_hub_url": "Haaaaarsh/ac_commands_v03",
     "columns": {
